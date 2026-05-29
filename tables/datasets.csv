@@ -1,0 +1,6 @@
+Dataset,Modality,Clinical Task,Concept Examples,Notes
+IDRiD,Fundus imaging,Diabetic retinopathy grading and lesion analysis,Microaneurysms; haemorrhages; hard exudates; soft exudates,Useful for lesion-level concept evaluation
+APTOS,Fundus imaging,Diabetic retinopathy grading,Lesions; vessels; optic disc; image-level disease severity,Common benchmark for retinal classification
+Messidor,Fundus imaging,Diabetic retinopathy screening,Microaneurysms; haemorrhages; exudates,Useful for disease-level retinal AI evaluation
+FGADR,Fundus imaging,Fine-grained diabetic retinopathy analysis,Lesion annotations; pathological biomarkers,Relevant for concept-level and lesion-level evaluation
+OCT datasets,OCT imaging,Retinal disease classification and diagnosis,Macula; retinal layers; fluid; drusen,Relevant for structural and anatomical concept analysis
