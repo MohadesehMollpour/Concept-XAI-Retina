@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-title: "Retinal-CXAI-Review"
 message: "If you use this repository, please cite the associated review paper."
 type: dataset
+title: "Retinal-CXAI-Review"
 authors:
   - family-names: "Mollapour"
     given-names: "Mohadeseh"
@@ -14,5 +14,11 @@ authors:
   - family-names: "Mian"
     given-names: "Zhibao"
 repository-code: "https://github.com/MohadesehMollpour/Retinal-CXAI-Review"
-title: "Concept-Based Explainable AI in Retinal Imaging: A State-of-the-Art Review of Methods, Challenges, and Future Directions"
+abstract: "A curated review repository for Concept-Based Explainable AI in retinal imaging."
+keywords:
+  - explainable-ai
+  - concept-based-xai
+  - retinal-imaging
+  - medical-ai
+  - trustworthy-ai
 year: 2026
