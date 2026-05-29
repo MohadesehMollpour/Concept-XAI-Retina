@@ -1,10 +1,10 @@
 # Retinal-CXAI-Review
 
-A curated review repository accompanying the paper:
+A curated research repository accompanying the review paper:
 
 **Concept-Based Explainable AI in Retinal Imaging: A State-of-the-Art Review of Methods, Challenges, and Future Directions**
 
-This repository collects and organises key resources on Concept-Based Explainable AI (C-XAI) for retinal and ophthalmic image analysis. It is designed as a living research resource for researchers working on interpretable, clinically meaningful, and trustworthy AI in medical imaging.
+This repository organises key literature, taxonomies, datasets, evaluation metrics, and research resources related to Concept-Based Explainable AI (C-XAI) for retinal and ophthalmic image analysis.. It is designed as a living research resource for researchers working on interpretable, clinically meaningful, and trustworthy AI in medical imaging.
 
 ## Overview
 
