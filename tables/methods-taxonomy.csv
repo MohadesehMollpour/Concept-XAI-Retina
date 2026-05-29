@@ -1,0 +1,10 @@
+Method,Category,Explanation Type,Typical Use,Relevance to Retinal C-XAI
+TCAV,Post-hoc supervised,Class-concept relation,Measures the influence of predefined concepts on model predictions,Useful for testing whether retinal concepts influence diagnostic outputs
+ACE,Post-hoc unsupervised,Concept discovery,Automatically discovers visual concepts from image segments,Useful when expert retinal concept annotations are limited
+CRAFT,Post-hoc unsupervised,Hierarchical concept discovery,Extracts multi-level visual concepts from internal representations,Useful for discovering retinal patterns at different abstraction levels
+ConceptSHAP,Post-hoc concept attribution,Concept importance,Estimates contribution of discovered or predefined concepts,Useful for ranking retinal concepts by importance
+CBM,Explainable-by-design supervised,Concept bottleneck reasoning,Predicts concepts before final class prediction,Useful when clinically annotated retinal concepts are available
+CEM,Explainable-by-design supervised,Concept embedding reasoning,Represents each concept through richer embeddings,Useful for modelling complex clinical concept variation
+ProtoPNet,Explainable-by-design prototype-based,Prototype explanation,Explains decisions using similarity to learned prototypes,Useful for case-based retinal explanation
+SENN,Explainable-by-design unsupervised,Self-explaining concept basis,Learns interpretable concepts and relevance scores,Useful for transparent diagnostic reasoning
+SMILE,Auditing framework,Perturbation-based reliability evaluation,Tests explanation reliability through controlled perturbations,Useful for auditing whether concept explanations remain clinically meaningful
