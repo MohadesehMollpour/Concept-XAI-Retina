@@ -1,0 +1,8 @@
+Metric,Purpose,Explanation
+Faithfulness,Checks whether explanations reflect the model's true reasoning,Important for assessing whether concept explanations are reliable
+Stability,Measures whether explanations remain similar under small input changes,Useful for detecting sensitivity to artefacts or non-clinical changes
+Consistency,Measures reproducibility across repeated runs,Important for checking whether explanations are repeatable
+Robustness,Assesses resistance to perturbations or adversarial changes,Relevant for high-stakes medical AI
+Clinical Relevance,Checks whether concepts align with ophthalmic knowledge,Important for clinician trust and usability
+Concept Completeness,Assesses whether concepts sufficiently explain model predictions,Useful for evaluating concept-based model coverage
+Human Evaluation,Uses expert judgement to assess explanation usefulness,Important for clinical validation
