@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Retinal-CXAI-Review"
+message: "If you use this repository, please cite the associated review paper."
+type: dataset
+authors:
+  - family-names: "Mollapour"
+    given-names: "Mohadeseh"
+  - family-names: "Aslansefat"
+    given-names: "Koorosh"
+  - family-names: "Mishra"
+    given-names: "Bhupesh Kumar"
+  - family-names: "Shah"
+    given-names: "Tejal"
+  - family-names: "Mian"
+    given-names: "Zhibao"
+repository-code: "https://github.com/MohadesehMollpour/Retinal-CXAI-Review"
+title: "Concept-Based Explainable AI in Retinal Imaging: A State-of-the-Art Review of Methods, Challenges, and Future Directions"
+year: 2026
